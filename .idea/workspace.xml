@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18471e1f-6efc-4431-9612-78d9f965a172" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blogapi/src/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/PostLoading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/admin/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/admin/delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/admin/edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/admin/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/components/single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="REACT" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blogapi" />
+  </component>
+  <component name="ProjectId" id="1rBlNvZX4yQC3P8zMkMT0xKeAF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jorge\PycharmProjects\REACT\blogapi\src\components\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18471e1f-6efc-4431-9612-78d9f965a172" name="Default Changelist" comment="" />
+      <created>1618457327395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618457327395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
