@@ -18,6 +18,9 @@
       <change afterPath="$PROJECT_DIR$/blogapi/src/components/search.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogapi/src/components/single.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogapi/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/src/App.js" afterDir="false" />
@@ -37,6 +40,10 @@
   </component>
   <component name="ProjectId" id="1rBlNvZX4yQC3P8zMkMT0xKeAF7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jorge\PycharmProjects\REACT\blogapi\src\components\admin" />
